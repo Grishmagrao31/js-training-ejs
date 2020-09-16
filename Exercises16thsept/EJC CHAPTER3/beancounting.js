@@ -1,4 +1,4 @@
-"use script";
+"use strict";
 function countBs(a) {
     let n = a.length;
     let count = 0;
@@ -16,7 +16,7 @@ console.log(countBs("BBC"));
 function countChar(String, Char) {
     let n = String.length;
     let count = 0;
-    for (i = 0; i <= n; i++) {
+    for (let i = 0; i <= n; i++) {
         if (String[i] === Char) {
             count += 1;
         }
