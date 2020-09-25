@@ -10,9 +10,9 @@ let resturant ={
     },
     listdish : "Masala papad",
     starter :{
-        name1: "Panner manuchuri",
+        name1: "Panner manchuri",
         name2: "Paneer chilly",
-        name3: "Mushroom Mnachuri",
+        name3: "Mushroom Manchuri",
         name4: "Mushroom chilly"
     },
     maincourse : {
